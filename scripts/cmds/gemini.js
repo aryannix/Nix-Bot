@@ -6,10 +6,11 @@ module.exports = {
   config: {
     name: "gemini",
     aliases: ["ai", "chat"],
-    version: "0.0.3",
+    version: "0.0.1",
     author: "ArYAN",
     countDown: 3,
     role: 0,
+    nixPrefix: false,
     description: {
       en: "Ask Gemini AI (Text or Image)"
     },
