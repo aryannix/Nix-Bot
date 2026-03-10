@@ -1,5 +1,5 @@
 {
-  "name": "NixBot",
+  "name": "Nix-Bot",
   "version": "0.0.1",
   "description": "A simple Bot chat Whatsapp using personal account Number. Made by Aryan Rayhan.",
   "main": "index.js",
@@ -7,9 +7,11 @@
     "start": "node index.js"
   },
   "keywords": [
-    "whatsapp-bot"
+    "whatsapp-bot",
+    "Nix-Bot",
+    "Aryan Rayhan"
   ],
-  "author": "",
+  "author": "ArYAN",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
