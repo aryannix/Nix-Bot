@@ -11,6 +11,9 @@
 
 ---
 
+## 📝 Tutorial
+[Tutorial has been uploaded on TikTok](https://vm.tiktok.com/ZS9RJFk4FoKsA-gLj3w/)
+
 ## What is NixBot?
 
 NixBot is a feature-rich WhatsApp bot powered by [@whiskeysockets/baileys](https://github.com/WhiskeySockets/Baileys). It supports 55+ commands across AI, media, group management, games, and utilities. Fully modular — add, remove, or customize commands without touching core files.
